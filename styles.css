@@ -22,8 +22,9 @@ body {
 }
 
 header {
-	border-bottom: 3px solid #424242;
-	padding-bottom: 20px;
+    border-bottom: 3px solid #424242;
+    padding-bottom: 20px;
+    color: rgba(10,0,153,1.00);
 }
 
 header, footer {
@@ -34,8 +35,9 @@ section {
 }
 
 footer {
-	border-top: 3px solid #424242;
-	padding-top: 20px;
+    border-top: 3px solid #424242;
+    padding-top: 20px;
+    color: rgba(10,0,153,1.00);
 }
 
 #about {
